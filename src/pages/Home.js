@@ -1,6 +1,6 @@
 import React from "react";
-import "../../styles/style.css";
-import me from "../../images/me.png";
+import "../styles/styles.css";
+import me from "../images/me.png";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
