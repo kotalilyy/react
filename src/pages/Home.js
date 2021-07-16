@@ -15,9 +15,9 @@ const Home = () => (
       <Col xs={12} md={8}>
         <h1>AboutMe</h1>
         <p id="about">
-          Hi, I'm Dakota Nelson and this is my Portfolio. I am currently
+          Hi, I am Dakota Nelson and this is my Portfolio. I am currently
           attending a Full-stack Coding Bootcamp at the University of Texas at
-          Austin. I am devoted to a lifetime of learning, so I can aquire the
+          Austin. I am devoted to a lifetime of learning, so that I may aquire the
           skills neccessary to become a Web Developer.
         </p>
       </Col>

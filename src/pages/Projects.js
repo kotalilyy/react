@@ -5,9 +5,10 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 const Projects = () => (
-    <Container id="container">
-      <h1>My Projects</h1>
-    </Container>
-  );
+  <Container id="container">
+    <h1>My Projects</h1>
+  </Container>
+);
+
 
 export default Projects;
