@@ -18,7 +18,7 @@ const Home = () => (
           Hi, I'm Dakota Nelson and this is my Portfolio. I am currently
           attending a Full-stack Coding Bootcamp at the University of Texas at
           Austin. I am devoted to a lifetime of learning, so I can aquire the
-          skills to become a Web Developer.
+          skills neccessary to become a Web Developer.
         </p>
       </Col>
     </Row>
