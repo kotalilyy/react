@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/styles.css";
-import me from "../images/me.png";
+import me from "../components/images/me.png";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -17,8 +17,8 @@ const Home = () => (
         <p id="about">
           Hi, I am Dakota Nelson and this is my Portfolio. I am currently
           attending a Full-stack Coding Bootcamp at the University of Texas at
-          Austin. I am devoted to a lifetime of learning, so that I may aquire the
-          skills neccessary to become a Web Developer.
+          Austin. I am devoted to a lifetime of learning, so that I may aquire
+          the skills neccessary to become a Web Developer.
         </p>
       </Col>
     </Row>
