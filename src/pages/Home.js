@@ -8,20 +8,24 @@ import Image from "react-bootstrap/Image";
 
 const Home = () => (
   <Container id="container">
-    <Row>
-      <Col xs={6} md={4}>
-        <Image src={me} />
-      </Col>
-      <Col xs={12} md={8}>
-        <h1>AboutMe</h1>
-        <p id="about">
-          Hi, I am Dakota Nelson and this is my Portfolio. I am currently
-          attending a Full-stack Coding Bootcamp at the University of Texas at
-          Austin. I am devoted to a lifetime of learning, so that I may aquire
-          the skills neccessary to become a Web Developer.
-        </p>
-      </Col>
-    </Row>
+    <center>
+      <Row>
+        <Col xs={6} md={4}>
+          <Image src={me} />
+        </Col>
+        <Col xs={12} md={8}>
+          <p id="about">
+            <h1>
+              {" "}
+              Hi, I am Dakota Nelson. I am a recent
+              graduate of a Full-stack Coding Bootcamp at the University of
+              Texas at Austin. I am devoted to a lifetime of learning, so that I
+              may aquire the skills neccessary to become a Web Developer.
+            </h1>
+          </p>
+        </Col>
+      </Row>
+    </center>
   </Container>
 );
 
