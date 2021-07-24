@@ -8,12 +8,6 @@
 
 This is my Portfolio made using React. 
 
-![home](https://user-images.githubusercontent.com/77229281/126066482-bd2b4e0f-d7f1-4276-8973-518d716bc3f7.png)
-
-![contact](https://user-images.githubusercontent.com/77229281/126066494-a29c6abf-0e1e-4572-aaa4-b077b3f5b195.png)
-
-![projects](https://user-images.githubusercontent.com/77229281/126066507-91c1e9e2-3013-40e8-a9d1-828fdcb04cb9.png)
-
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
