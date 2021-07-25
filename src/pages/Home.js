@@ -17,10 +17,10 @@ const Home = () => (
           <p id="about">
             <h1>
               {" "}
-              Hi, I am Dakota Nelson. I am a recent
-              graduate of a Full-stack Coding Bootcamp at the University of
-              Texas at Austin. I am devoted to a lifetime of learning, so that I
-              may aquire the skills neccessary to become a Web Developer.
+              Hi, I am Dakota Nelson. I am a recent graduate of a Full-stack
+              Coding Bootcamp at the University of Texas at Austin. I am devoted
+              to a lifetime of learning, so that I may aquire the skills
+              neccessary to become a Web Developer.
             </h1>
           </p>
         </Col>
