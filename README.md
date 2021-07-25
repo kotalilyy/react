@@ -20,7 +20,7 @@ This is my Portfolio made using React.
 
 ## Live Link
 
-[Live Link](https://kotalilyyportfolio.herokuapp.com/)deployed to Heroku
+[Live Link](https://kotalilyyportfolio.herokuapp.com/) deployed to Heroku
 
 ## Installation
 
