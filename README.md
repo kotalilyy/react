@@ -6,23 +6,25 @@
 
 ## Description
 
-This is my Portfolio made using React. 
+This is my Portfolio made using React. This application is deployed to Heroku.
 
 ## Table of Contents
 
+  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
   - [Installation](#installation)
   - [License](#license)
-  - [Credits](#credits)
   - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Live Link
 
-[Live Link](https://kotalilyyportfolio.herokuapp.com/) deployed to Heroku
+[live link](https://kotalilyyportfolio.herokuapp.com/) 
 
 ## Installation
+
+Install React
 
 ```bash
 npx create-react-app my-app
