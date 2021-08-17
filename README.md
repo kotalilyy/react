@@ -2,39 +2,17 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 ## Description
 
-This is my Portfolio made using React. This application is deployed to Heroku.
+This is my Portfolio made using React. This Portfolio is deployed to Heroku.
 
-## Table of Contents
+## Technologies Used
 
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Live Link](#live-link)
-  - [Installation](#installation)
-  - [License](#license)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
+React
 
-## Live Link
+## Live Link to Heroku
 
 [live link](https://kotalilyyportfolio.herokuapp.com/) 
-
-## Installation
-
-Install React
-
-```bash
-npx create-react-app my-app
-cd my-app
-npm start
-```
-
-## License
-
-[GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contributions
 
